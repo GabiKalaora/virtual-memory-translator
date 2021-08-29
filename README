@@ -1,1 +1,2 @@
-translates virtual memory address into physical memory address 
+translates virtual memory address into physical memory address.
+program can be activated by running makefile to create an exacutable
